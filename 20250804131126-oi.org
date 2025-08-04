@@ -1,4 +1,0 @@
-:PROPERTIES:
-:ID:       9f3efbbd-ef90-4537-8649-fed16055167a
-:END:
-#+title: #+title:  oi
