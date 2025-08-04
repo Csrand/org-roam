@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       4240cc4f-8088-476e-a0e3-0a404893078c
+:END:
+#+title: #+title: psicologia analítica
+É um ramo da psicologia iniciado por Carl Gustav Jung. que enfatiza a importância da [[id:8543c73e-aec7-49d7-8c68-e0fa2cef0255][psique]], do [[id:b0f984af-35ca-41c2-8cba-ba2c48ad4256][#+title: inconsciente]], dos [[id:8eca0e92-4294-4da8-b833-d86de17a8681][#+title: arquétipos]] e do processo de [[id:0b901444-89c7-45f5-9f1c-00effc67668f][#+title: individuação]]
